@@ -22,7 +22,7 @@ This project is organized into the following key files:
 
 ## 📊 Project Visualization
 
-Here is a snapshot from the `MENTAL HEALTH.ipynb` notebook, illustrating the correlation between the features of the dataset.
+Here is a snapshot from the `Mental-health.ipynb` notebook, illustrating the correlation between the features of the dataset.
 
 ![Project Screenshot](HeatMap.jpg "project-structure")
 
