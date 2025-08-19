@@ -16,8 +16,8 @@ This project is organized into the following key files:
 └── Explain.ipynb              # A notebook for the documentation of the project
 ```
 
-* **`MENTAL HEALTH.ipynb`**: This is the primary notebook. It contains all steps of the project, including data cleaning, exploratory data analysis (EDA), model training, and performance evaluation. **Start here to see the full workflow.**
-* **`Test.ipynb`**: This notebook is used for supplementary testing and validation of the model.
+* **`Mental-Health.ipynb`**: This is the primary notebook. It contains all steps of the project, including data cleaning, exploratory data analysis (EDA), model training, and performance evaluation. **Start here to see the full workflow.**
+* **`Explain.ipynb`**: This notebook is used to give a documentation of the project.
 * **`DepressionData.csv`**: The dataset containing anonymized student survey data on mental health and lifestyle factors.
 
 ## 📊 Project Visualization
@@ -74,7 +74,7 @@ Once the dependencies are installed, you can start the Jupyter environment:
 jupyter notebook
 ```
 
-This will open a new tab in your browser. From there, you can navigate to and open `MENTAL HEALTH.ipynb` or `Test.ipynb` to view and run the code. The `DepressionData.csv` file will be loaded directly by the notebooks.
+This will open a new tab in your browser. From there, you can navigate to and open `Mental -Health.ipynb` or `Explain.ipynb` to view and run the code. The `DepressionData.csv` file will be loaded directly by the notebooks.
 
 ## 📈 Model Performance
 
