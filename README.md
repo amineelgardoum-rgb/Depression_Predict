@@ -11,9 +11,9 @@ This project is organized into the following key files:
 ```
 .
 ├── 📄 DepressionData.csv    # The raw dataset used for training and analysis
-├──  MENTAL HEALTH.ipynb # The main Jupyter Notebook with the full analysis
+├── Mental-Health.ipynb # The main Jupyter Notebook with the full analysis
 ├── README.md               # You are here!
-└── Test.ipynb              # A notebook for testing, experimentation, or model validation
+└── Explain.ipynb              # A notebook for the documentation of the project
 ```
 
 * **`MENTAL HEALTH.ipynb`**: This is the primary notebook. It contains all steps of the project, including data cleaning, exploratory data analysis (EDA), model training, and performance evaluation. **Start here to see the full workflow.**
@@ -24,9 +24,7 @@ This project is organized into the following key files:
 
 Here is a snapshot from the `MENTAL HEALTH.ipynb` notebook, illustrating the correlation between sleep, stress, and the prevalence of depression within the dataset.
 
-*(**Instructions:** Replace the placeholder link below with a real path to your screenshot. You can drag and drop an image into the GitHub issue/PR editor to get a link, or place it in your repository and link to it directly.)*
-
-![Project Screenshot](./path/to/your/screenshot.png)
+![Project Screenshot](project-structure.png "project-structure")
 
 ## ✨ Key Features
 
