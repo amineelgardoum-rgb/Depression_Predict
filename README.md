@@ -22,9 +22,9 @@ This project is organized into the following key files:
 
 ## 📊 Project Visualization
 
-Here is a snapshot from the `MENTAL HEALTH.ipynb` notebook, illustrating the correlation between sleep, stress, and the prevalence of depression within the dataset.
+Here is a snapshot from the `MENTAL HEALTH.ipynb` notebook, illustrating the correlation between the features of the dataset.
 
-![Project Screenshot](project-structure.png "project-structure")
+![Project Screenshot](HeatMap.jpg "project-structure")
 
 ## ✨ Key Features
 
