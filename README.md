@@ -1,0 +1,1 @@
+In this project, you will find a predictive model for depression among students based on sleep duration and total stress . To explore more, check out the project code, available in a Jupyter Notebook . 📚📊
