@@ -78,7 +78,7 @@ This will open a new tab in your browser. From there, you can navigate to and op
 
 ## 📈 Model Performance
 
-The final classification model, as detailed in `MENTAL HEALTH.ipynb`, achieved the following performance on the test set:
+The final classification model, as detailed in `Mental=Health.ipynb`, achieved the following performance on the test set:
 
 | Metric              | Score              |
 | :------------------ | :----------------- |
